@@ -21,7 +21,7 @@ Cada uma das partes do projeto é independente e pode ser executada separadament
 
 ## Tecnologias Utilizadas
 
-- **Backend**: Java (Spring Boot), Spring Data JPA, H2 Database (ou outro banco de dados de sua preferência)
+- **Backend**: Java (Spring Boot), Spring Data JPA, PostgreSQL (ou outro banco de dados de sua preferência)
 - **App Mobile**: React Native com Expo
 - **App Web**: React com Bootstrap
 
