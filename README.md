@@ -61,10 +61,18 @@ A aplicação móvel para acessar o sistema. Para rodar o app mobile:
 2. Instale as dependências:
    ```bash
    npm install
-   ```
+
+   No caso do Axios,
+   npm install axios@latest
+   
+   Para os itens de navegação entre telas
+   npm install @react-navigation/native
+   npm install @react-navigation/stack
+
+	```
 3. Inicie o Expo:
    ```bash
-   expo start
+   npx expo start
    ```
 4. Abra o app Expo Go no seu dispositivo e escaneie o QR code para visualizar o aplicativo.
 
